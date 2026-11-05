@@ -33,8 +33,6 @@
 | **[Project Two](https://github.com/devocharo/project-two)** | Data processing pipeline with async workers | Python, PostgreSQL, Celery |
 | **[Project Three](https://github.com/devocharo/project-three)** | Real-time WebSocket service for notifications | Go, WebSocket, Docker |
 
-> 💡 *Replace these with your actual projects — edit this README to add your real repos!*
-
 ---
 
 ## 📈 Activity Graph
